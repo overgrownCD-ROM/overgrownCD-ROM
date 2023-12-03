@@ -1,0 +1,3 @@
+-  Hi, I’m Lynn
+- I’m learning HTML.. and always will be. The more you learn the less you know haha
+- I have a website! https://overgrown-garden.neocities.org :-)
